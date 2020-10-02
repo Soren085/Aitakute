@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import App from './App.vue'
+import MusicApp from './Music-app.vue'
 import './index.css'
 
-createApp(App).mount('#app')
+createApp(MusicApp).mount('#MusicApp')
