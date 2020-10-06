@@ -16,7 +16,7 @@ export default {
   components: {
     HelloWorld,
     NewScreen,
-    WatcherExample
+    WatcherExample,
   }
 }
 </script>
